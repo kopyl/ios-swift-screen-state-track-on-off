@@ -34,7 +34,10 @@
 		A11EDAC12C4791F2002C79B6 = {
 			isa = PBXGroup;
 			children = (
-				A11EDACC2C4791F2002C79B6 /* screen-state-track */,
+				A11EDACF2C4791F2002C79B6 /* App.swift */,
+				A11EDAD62C4791F4002C79B6 /* Assets.xcassets */,
+				A11EDAD82C4791F4002C79B6 /* LaunchScreen.storyboard */,
+				A11EDADB2C4791F4002C79B6 /* Info.plist */,
 				A11EDACB2C4791F2002C79B6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,17 +48,6 @@
 				A11EDACA2C4791F2002C79B6 /* screen-state-track.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		A11EDACC2C4791F2002C79B6 /* screen-state-track */ = {
-			isa = PBXGroup;
-			children = (
-				A11EDACF2C4791F2002C79B6 /* App.swift */,
-				A11EDAD62C4791F4002C79B6 /* Assets.xcassets */,
-				A11EDAD82C4791F4002C79B6 /* LaunchScreen.storyboard */,
-				A11EDADB2C4791F4002C79B6 /* Info.plist */,
-			);
-			path = "screen-state-track";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9QNMAN8CT6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "screen-state-track/Info.plist";
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -302,7 +294,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9QNMAN8CT6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "screen-state-track/Info.plist";
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
