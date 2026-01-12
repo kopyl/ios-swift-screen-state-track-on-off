@@ -50,20 +50,12 @@
 		A11EDACC2C4791F2002C79B6 /* screen-state-track */ = {
 			isa = PBXGroup;
 			children = (
-				A14AC1832C4796A9003AA6B9 /* Root */,
+				A11EDACF2C4791F2002C79B6 /* App.swift */,
 				A11EDAD62C4791F4002C79B6 /* Assets.xcassets */,
 				A11EDAD82C4791F4002C79B6 /* LaunchScreen.storyboard */,
 				A11EDADB2C4791F4002C79B6 /* Info.plist */,
 			);
 			path = "screen-state-track";
-			sourceTree = "<group>";
-		};
-		A14AC1832C4796A9003AA6B9 /* Root */ = {
-			isa = PBXGroup;
-			children = (
-				A11EDACF2C4791F2002C79B6 /* App.swift */,
-			);
-			path = Root;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
