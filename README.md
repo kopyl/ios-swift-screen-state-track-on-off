@@ -41,3 +41,5 @@ with this:
 ```swift
 NN.build() as CFString,
 ```
+
+Credits for pointing out at a developer account ban risk: Kostia K.
